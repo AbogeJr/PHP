@@ -1,2 +1,3 @@
 # PHP
-Learning php.
+
+Repo for learning basic to intermediate PHP.
