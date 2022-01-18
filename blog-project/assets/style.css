@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.signup, .login {
+    border: 1px solid red;
+    width: 100%;
+    padding: 20px;
+}
+.error {
+    color: red;
+}
